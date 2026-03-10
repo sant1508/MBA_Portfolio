@@ -1,0 +1,16 @@
+---
+title: "Home"
+---
+
+# Welcome to My MBA Portfolio
+
+Hello, my name is **Satwant Singh**. I am currently pursuing an MBA at University Canada West in Canada.
+
+This portfolio website highlights my academic projects, professional skills, and leadership development during my MBA program.
+
+## Professional Interests
+
+- Strategic Management
+- Financial Analysis
+- Artificial Intelligence in Business
+- Business Analytics

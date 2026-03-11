@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Satwant Singh MBA Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resume.qmd
+        text: Resume
+      - href: projects.qmd
+        text: Projects
+      - href: skills.qmd
+        text: Skills
+      - href: leadership.qmd
+        text: Leadership
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo

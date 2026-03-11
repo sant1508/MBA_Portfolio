@@ -1,0 +1,7 @@
+# Projects
+
+## Royal Bank of Canada Financial Analysis
+Financial analysis using 2020–2024 financial statements.
+
+## Retail Profit Prediction
+Regression model to predict profit using retail dataset.
